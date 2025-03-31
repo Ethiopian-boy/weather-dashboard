@@ -2,6 +2,10 @@
 
 A fast, modern weather dashboard built with [Next.js](https://nextjs.org), leveraging JAMstack principles to deliver a seamless, interactive user experience. The dashboard fetches real-time weather data from OpenWeatherMap and displays comprehensive details including temperature, weather description, humidity, wind, local time, sunrise, sunset, and more.
 
+## Live Demo
+
+Check out the live demo here: [https://weather-dashboard-alpha-eight.vercel.app/](https://weather-dashboard-alpha-eight.vercel.app/)
+
 ## Features
 
 - **Real-Time Weather Data:**  
